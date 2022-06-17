@@ -1,0 +1,30 @@
+g -> line 44,47 correct
+b correct
+b, c, f, incorrect BCE concurency
+b
+b
+a
+a,d,e
+f
+b
+b
+g
+b
+a, d
+d, e
+c
+c?
+a, e
+F
+c
+b
+f
+e
+d,e
+c
+b
+e
+b, c, d
+b, f
+d
+g
