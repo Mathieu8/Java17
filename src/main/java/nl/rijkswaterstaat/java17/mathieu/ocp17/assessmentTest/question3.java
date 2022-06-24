@@ -13,14 +13,7 @@ public class question3 {
 
    void question(){
         List<Integer> data = new ArrayList<>();
-        IntStream.range(0,100).parallel().forEach(s-> {var test = synchronized(this){ data.add(s);
-            return test;};
-        });
+        IntStream.range(0,100).parallel().forEach(s->  data.add(s));
         System.out.println(data.size());
-    }
-
-    synchronized static List<Integer> dataAdd(List<Integer> data, Integer i){
-        data.add(i);
-        return  data;
     }
 }

@@ -1,16 +1,16 @@
 g -> line 44,47 correct
-b correct
+b
 b, c, f, incorrect BCE concurency
+b, incorrect D, infinte stream doenst end
 b
+a, incorrect B. default overruled intiateren met een andere locale
+a,d,e, incorrect d,e, binarySearch needs to be sorted first
+f, incorrect did I get the question correctly?!?
+b, incorrect D
+b, incorrect C. interface doesn't have private methods
+C,f incorrect c,e,f. protected doesn't do
 b
-a
-a,d,e
-f
-b
-b
-g
-b
-a, d
+a, d: incorrect c,c:
 d, e
 c
 c?
