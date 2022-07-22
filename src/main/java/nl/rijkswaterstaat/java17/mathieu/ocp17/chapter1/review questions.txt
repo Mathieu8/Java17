@@ -1,0 +1,23 @@
+de
+ce CDE Package not required
+ae
+bg BEG leesfout
+adf
+f
+f CE correct that the variables aren't initiated, but due to textblokc they are never used
+bcdgh BDEH c=var intialed to a , e=leesfout? g=var can't be multible variable assigment
+ab E float is default 0.0 and char default is null-character \u0000
+abcdef AEF
+d E lees
+acd
+a ABC while importing named class trumps wildcards
+de ABDE lees
+cf CEF stom
+cf AD textblocks formating
+cdh DFG lees het is c of d, default values of string and float
+bfg BCF lees, en var is niet een keyword
+ce AD primitives
+ef C
+fg D default constructor
+acdfg CFG lees
+eh AD float and double intitiazing

@@ -10,11 +10,11 @@ b, incorrect D
 b, incorrect C. interface doesn't have private methods
 C,f incorrect c,e,f. protected doesn't do
 b
-a, d: incorrect c,c:
+a, d: incorrect c,d:
 d, e
 c
-c?
-a, e
+c?, incorrect a,d:
+a, e, incorrect c,f
 F
 c
 b
