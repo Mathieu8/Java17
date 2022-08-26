@@ -1,0 +1,21 @@
+adg
+a ABD int kan ook in long en double
+bcdf
+b
+a,c
+f
+d
+e A automatische casting van double naar int
+a,e,f ADE post
+g
+d
+d
+c F opschrijven
+bcg BEG
+d
+d B casting mid thingie
+g CF opschrijven
+c
+bf
+ade
+g E bitwise complement
